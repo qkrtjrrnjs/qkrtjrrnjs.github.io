@@ -2888,7 +2888,7 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
-			.statistics li.style1 span{
+			.statistics li.style1 div.skills{
 				color: #000000;
 				background-color: #ffffff
 			}
