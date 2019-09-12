@@ -2887,6 +2887,11 @@ input, select, textarea {
 				background-color: #efa8b0;
 				color: #ffffff;
 			}
+			
+			.statistics li.style{
+				background-color: #ffffff;
+				color: #000000
+			}
 
 			.statistics li.style2 {
 				background-color: #c79cc8;
