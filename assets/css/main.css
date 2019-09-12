@@ -2883,7 +2883,7 @@ input, select, textarea {
 			text-align: center;
 		}
 
-			.statistics li div.style1 {
+			.statistics li div.style1 strong{
 				background-color: #efa8b0;
 				color: #ffffff;
 			}
