@@ -2879,28 +2879,33 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			padding: 1.5em;
-			color: #ffffff;
+			color: #000000;
 			text-align: center;
 		}
 
 			.statistics li.style1 {
 				background-color: #efa8b0;
+				color: #ffffff;
 			}
 
 			.statistics li.style2 {
 				background-color: #c79cc8;
+				color: #ffffff;
 			}
 
 			.statistics li.style3 {
 				background-color: #a89cc8;
+				color: #ffffff;
 			}
 
 			.statistics li.style4 {
 				background-color: #9bb2e1;
+				color: #ffffff;
 			}
 
 			.statistics li.style5 {
 				background-color: #8cc9f0;
+				color: #ffffff;
 			}
 
 			.statistics li strong, .statistics li b {
