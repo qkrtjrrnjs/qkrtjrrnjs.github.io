@@ -2882,39 +2882,18 @@ input, select, textarea {
 			text-align: center;
 		}
 
-			.statistics li div.style1 strong{
-				-moz-flex: 1;
-				-webkit-flex: 1;
-				-ms-flex: 1;
-				flex: 1;
-				padding: 1.5em;
-				text-align: center;
-				background-color: #efa8b0;
+			.statistics li.style1 {
+				background-color: #b8c8bd;
 				color: #ffffff;
 			}
 
-			.statistics li div.skills{
-				color: #000000;
-				background-color: #ffffff
-			}
-
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #b8c8bd;
 				color: #ffffff;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
-				color: #ffffff;
-			}
-
-			.statistics li.style4 {
-				background-color: #9bb2e1;
-				color: #ffffff;
-			}
-
-			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #b8c8bd;
 				color: #ffffff;
 			}
 
