@@ -2879,11 +2879,16 @@ input, select, textarea {
 			-ms-flex: 1;
 			flex: 1;
 			padding: 1.5em;
-			color: #000000;
 			text-align: center;
 		}
 
 			.statistics li div.style1 strong{
+				-moz-flex: 1;
+				-webkit-flex: 1;
+				-ms-flex: 1;
+				flex: 1;
+				padding: 1.5em;
+				text-align: center;
 				background-color: #efa8b0;
 				color: #ffffff;
 			}
