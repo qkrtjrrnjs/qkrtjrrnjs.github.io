@@ -2883,20 +2883,20 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #b8c8bd;
+				background-color: #efa8b0;
 				color: #ffffff;
 			}
 
 			.statistics li.style2 {
-				background-color: #b8c8bd;
+				background-color: #c79cc8;
 				color: #ffffff;
 			}
 
 			.statistics li.style3 {
-				background-color: #b8c8bd;
+				background-color: #a89cc8;
 				color: #ffffff;
 			}
-
+			
 			.statistics li strong, .statistics li b {
 				display: block;
 				font-size: 2em;
